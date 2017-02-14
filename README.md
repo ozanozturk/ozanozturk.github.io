@@ -1,2 +1,0 @@
-# ozanozturk.github.io
-Portfolio
