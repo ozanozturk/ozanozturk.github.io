@@ -1756,7 +1756,7 @@ body {
 }
 .cid-qQfvsuLDDR {
   padding-top: 120px;
-  padding-bottom: 105px;
+  padding-bottom: 120px;
   background-color: #138bb4;
 }
 .cid-qQfvsuLDDR .mbr-text,
@@ -3051,47 +3051,47 @@ body {
 .cid-qQEE4haeHR .card-title P {
   text-align: left;
 }
-.cid-qQEE4WU2xZ {
+.cid-qQHkSW5OOn {
   padding-top: 0px;
   padding-bottom: 45px;
   background-color: #232323;
 }
-.cid-qQEE4WU2xZ .card-img {
+.cid-qQHkSW5OOn .card-img {
   background-color: #fff;
 }
-.cid-qQEE4WU2xZ .card-box {
+.cid-qQHkSW5OOn .card-box {
   background-color: #efefef;
   padding: 2rem;
 }
-.cid-qQEE4WU2xZ h4 {
+.cid-qQHkSW5OOn h4 {
   font-weight: 500;
   margin-bottom: 0;
   text-align: left;
 }
-.cid-qQEE4WU2xZ p {
+.cid-qQHkSW5OOn p {
   text-align: left;
 }
-.cid-qQEE4WU2xZ .mbr-text {
+.cid-qQHkSW5OOn .mbr-text {
   color: #232323;
   text-align: center;
 }
-.cid-qQEE4WU2xZ .card-wrapper {
+.cid-qQHkSW5OOn .card-wrapper {
   height: 100%;
   box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
   transition: box-shadow 0.3s;
 }
-.cid-qQEE4WU2xZ .card-wrapper:hover {
+.cid-qQHkSW5OOn .card-wrapper:hover {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
   transition: box-shadow 0.3s;
 }
 @media (min-width: 992px) {
-  .cid-qQEE4WU2xZ .my-col {
+  .cid-qQHkSW5OOn .my-col {
     flex: 0 0 20%;
     max-width: 20%;
     padding: 15px;
   }
 }
-.cid-qQEE4WU2xZ .card-title {
+.cid-qQHkSW5OOn .card-title {
   text-align: center;
   color: #232323;
 }
