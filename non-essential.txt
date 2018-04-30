@@ -2,3 +2,4 @@ mbr removables
 folder: history
 folder: fonts
 file: publish hashes
+file: screenshot
