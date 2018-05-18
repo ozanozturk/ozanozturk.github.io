@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Ozan Öztürk - Game Designer",
-    "currentPage": "what-the-cluck.html",
+    "currentPage": "schacht.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1239,7 +1239,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#232323\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>\n                 </p><p><span style=\"font-size: 1rem;\"><b>Run, dash and jump! Race against time to complete challenging tracks!</b></span></p><p><span style=\"font-size: 1rem;\">Play alone or with up to 4 friends in procedurally generated levels.</span></p><p><span style=\"font-size: 1rem;\">Create and share your own levels with the in-game level editor.</span></p><p><span style=\"font-size: 1rem;\">Engage in daily, weekly and monthly challenges to rise to the top of the leaderboards.</span></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#232323\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>\n                 </p><p><span style=\"font-size: 1rem;\"><b>Run, dash and jump! Race against time to complete challenging tracks!</b></span></p><p><span style=\"font-size: 1rem;\">Play alone or with up to 3 other players in procedurally generated levels.</span></p><p><span style=\"font-size: 1rem;\">Create and share your own levels with the in-game level editor.</span></p><p><span style=\"font-size: 1rem;\">Engage in daily, weekly and monthly challenges to rise to the top of the leaderboards.</span></p></div>\n        </div>\n    </div>\n</section>",
           "_isUserblock": true,
           "_cid": "qQgb2kas4s",
           "_anchor": "content1-o",
