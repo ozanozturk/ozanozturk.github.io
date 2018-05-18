@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Ozan Öztürk - Game Designer",
-    "currentPage": "schacht.html",
+    "currentPage": "what-the-cluck.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -50,7 +50,9 @@
     "robotsSwitcher": "on",
     "sitemapSwitcherAuto": "on",
     "sitemapSwitcher": "on",
-    "cookiesAlert": ""
+    "cookiesAlert": "",
+    "publishType": "local",
+    "publishPath": "file:///F:/Users/Ozan/Documents/Portfolio"
   },
   "pages": {
     "index.html": {
@@ -4424,7 +4426,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#232323\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>\n                 </p><p><span style=\"font-size: 1rem;\"><b>Travel to Cluckington with your friends for a round of Chickenball!</b></span></p><p><span style=\"font-size: 1rem;\">Compete against friends in a 4v4 cross-platform multiplayer mode between PC and PS4.</span></p><p><span style=\"font-size: 1rem;\">Catch and pass chickens between teammates. Tackle opponents to steal their chicken.</span></p><p><span style=\"font-size: 1rem;\">Bring fertile chickens to your farm and toss enraged chickens at your opponents to win.</span></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#232323\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>\n                 </p><p><span style=\"font-size: 1rem;\"><b>Travel to Cluckington for a round of Chickenball!</b></span></p><p><span style=\"font-size: 1rem;\">Compete against friends in a 4v4 cross-platform multiplayer mode between PC and PS4.</span></p><p><span style=\"font-size: 1rem;\">Catch and pass chickens between teammates. Tackle opponents to steal their chicken.</span></p><p><span style=\"font-size: 1rem;\">Bring fertile chickens to your farm and toss enraged chickens at your opponents to win.</span></p></div>\n        </div>\n    </div>\n</section>",
           "_isUserblock": true,
           "_cid": "qQgJJMf2Mv",
           "_anchor": "content1-13",
@@ -4565,7 +4567,7 @@
             "gallery": [
               {
                 "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2018-4-5-20-22-33-75354.jpg",
+                "videoPreview": "@PROJECT_PATH@/2018-4-5_20-22-33-75354.jpg",
                 "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=wnK62v9vtkw",
                 "image": "@PROJECT_PATH@/assets/images/ss-wtc-4.jpg",
