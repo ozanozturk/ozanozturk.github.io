@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Ozan Öztürk - Game Designer",
-    "currentPage": "index.html",
+    "currentPage": "schacht.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -50,9 +50,7 @@
     "robotsSwitcher": "on",
     "sitemapSwitcherAuto": "on",
     "sitemapSwitcher": "on",
-    "cookiesAlert": "",
-    "publishType": "local",
-    "publishPath": "file:///F:/Users/Ozan/Documents"
+    "cookiesAlert": ""
   },
   "pages": {
     "index.html": {
