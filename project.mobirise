@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Ozan Öztürk - Game Designer",
-    "currentPage": "twin-sprouts.html",
+    "currentPage": "what-the-cluck.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -4426,7 +4426,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>As a <b>lead designer</b> on the What the Cluck project, I was responsible for many managerial tasks ranging from the distribution of tasks to moderation of team meetings within an unusually large game design team of 8 students.</p><p>The primary creative output of my time on What the Cluck were the <b>5 game maps</b> which were all designed and built by me.</p><p> </p><p>Although the project could not be completed due to the graduation and departure of many key team members—including myself—at the end of the semester it was developed in, I continued working on the game in the following months in order to improve my skills in <b>Unreal Engine 4</b>, familiarizing myself further with the engine's <b>landscape editor</b> and&nbsp;<b>cinematic tools</b> in particular.</p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>As a <b>lead designer</b> on the What the Cluck project, I was responsible for many managerial tasks ranging from the distribution of tasks to moderation of team meetings within an unusually large game design team of 8 students.</p><p>The primary creative output of my time on What the Cluck were the <b>5 game maps</b>, all of which were designed and built by myself.</p><p> </p><p>Although the project could not be completed due to the graduation and departure of many key team members—including myself—at the end of the semester it was developed in, I continued working on the game in the following months in order to improve my skills in <b>Unreal Engine 4</b>, familiarizing myself further with the engine's <b>landscape editor</b> and&nbsp;<b>cinematic tools</b> in particular.</p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "qQgJJMqoez",
           "_anchor": "content1-14",
           "_protectedParams": [],
@@ -4773,6 +4773,45 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/ss-roostico-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ss-roostico-1-800x337.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/ss-roostico-2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ss-roostico-2-800x337.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/ss-roostico-3.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ss-roostico-3-800x337.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/ss-roostico.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/ss-roostico-800x337.jpg",
                 "alt": "",
@@ -4831,7 +4870,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ]
           }
