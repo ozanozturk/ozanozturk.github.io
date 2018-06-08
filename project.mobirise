@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Ozan Öztürk - Game Designer",
-    "currentPage": "what-the-cluck.html",
+    "currentPage": "twin-sprouts.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -50,9 +50,7 @@
     "robotsSwitcher": "on",
     "sitemapSwitcherAuto": "on",
     "sitemapSwitcher": "on",
-    "cookiesAlert": "",
-    "publishType": "local",
-    "publishPath": "file:///F:/Users/Ozan/Documents/Portfolio"
+    "cookiesAlert": ""
   },
   "pages": {
     "index.html": {
@@ -3007,7 +3005,7 @@
               {
                 "tags": "Creative",
                 "videoPreview": "@PROJECT_PATH@/2018-5-3_13-24-0-55348.jpg",
-                "playVideo": true,
+                "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=nXSHxSimhN0",
                 "image": "@PROJECT_PATH@/assets/images/ss-ts-4.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/ss-ts-4-800x450.jpg",
