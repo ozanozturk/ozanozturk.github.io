@@ -7310,6 +7310,13 @@ body {
     text-align: center;
   }
 }
+.cid-r0yvMZ0Hlo .mbr-text,
+.cid-r0yvMZ0Hlo .mbr-section-btn {
+  text-align: left;
+}
+.cid-r0yvMZ0Hlo H1 {
+  text-align: left;
+}
 .cid-r0yvNwIUK0 {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -7365,6 +7372,10 @@ body {
 .cid-r0yvNVIg4y .mbr-text,
 .cid-r0yvNVIg4y .mbr-section-btn {
   color: #ffffff;
+  text-align: left;
+}
+.cid-r0yvNVIg4y H1 {
+  text-align: left;
 }
 .cid-r0yvOjwReb {
   padding-top: 45px;
