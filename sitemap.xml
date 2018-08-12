@@ -1,8 +1,5 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://ozanozturk.github.io/index.html</loc>
-	</url>
-	<url>
 		<loc>https://ozanozturk.github.io/schacht.html</loc>
 	</url>
 	<url>
@@ -24,9 +21,15 @@
 		<loc>https://ozanozturk.github.io/heart_drive.html</loc>
 	</url>
 	<url>
+		<loc>https://ozanozturk.github.io/index3.html</loc>
+	</url>
+	<url>
 		<loc>https://ozanozturk.github.io/index2.html</loc>
 	</url>
 	<url>
-		<loc>https://ozanozturk.github.io/index3.html</loc>
+		<loc>https://ozanozturk.github.io/index.html</loc>
+	</url>
+	<url>
+		<loc>https://ozanozturk.github.io/index_old.html</loc>
 	</url>
 </urlset>
