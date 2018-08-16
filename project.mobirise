@@ -50,7 +50,9 @@
     "robotsSwitcher": "on",
     "sitemapSwitcherAuto": "on",
     "sitemapSwitcher": "on",
-    "cookiesAlert": ""
+    "cookiesAlert": "",
+    "publishType": "local",
+    "publishPath": "file:///F:/Users/Ozan/Documents/Portfolio"
   },
   "pages": {
     "schacht.html": {
