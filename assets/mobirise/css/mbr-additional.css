@@ -6759,14 +6759,9 @@ body {
   padding-bottom: 60px;
   background-color: #073b4c;
 }
-.cid-r0yvNwIUK0 .media-container-row {
-  flex-direction: row-reverse;
-}
 @media (min-width: 992px) {
   .cid-r0yvNwIUK0 .mbr-figure {
     padding-right: 4rem;
-    padding-right: 0;
-    padding-left: 4rem;
   }
 }
 @media (max-width: 991px) {
@@ -6780,11 +6775,11 @@ body {
   }
 }
 .cid-r0yvNwIUK0 H1 {
-  text-align: right;
+  text-align: left;
 }
 .cid-r0yvNwIUK0 .mbr-text,
 .cid-r0yvNwIUK0 .mbr-section-btn {
-  text-align: right;
+  text-align: left;
 }
 .cid-r0yvNVIg4y {
   padding-top: 60px;
