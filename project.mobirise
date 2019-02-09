@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Ozan Öztürk - Game Designer",
-    "currentPage": "schacht.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -40,7 +40,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.7.1",
     "uniqCompNum": 289,
-    "versionPublish": "4.9.2",
+    "versionPublish": "4.7.2",
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": "true",
@@ -8528,11 +8528,11 @@
           "_name": "content9",
           "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"80\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"17\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#232323\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>\n                    \n                <div><span style=\"font-size: 1rem;\"></span><br></div><div>Hello, and welcome to my portfolio!</div><br><div>\n</div><div>\n</div><div>I am a <b>game designer</b> and <b>producer </b>with over four years of&nbsp;<span style=\"font-size: 1rem;\">game development experience.&nbsp;</span></div><div><span style=\"font-size: 1rem;\"><br></span></div><div>\n</div><div>I hold a Master's degree in <b>Computer Animation &amp; Game Tech</b> and&nbsp;<span style=\"font-size: 1rem;\">I am currently specializing&nbsp;</span><span style=\"font-size: 1rem;\">further </span></div><div><span style=\"font-size: 1rem;\">in \n</span><span style=\"font-size: 1rem;\"><b>Game Design</b> at <b>Cologne Game Lab</b>.&nbsp;</span></div><br><div><span style=\"font-size: 1rem;\">Please scroll down to check out some of the games I worked on below.</span><br></div><div>\n</div></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
           "_cid": "rhzPCvJoLa",
+          "_anchor": "content9-7p",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content9-7p"
+          "_params": {}
         },
         {
           "_styles": {
@@ -8934,11 +8934,11 @@
           "_customHTML": "<section class=\"menu\" group=\"Menu\" plugins=\"DropDown, TouchSwipe\" always-top global once=\"menu\" not-draggable position-absolute>\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Show Logo\" name=\"showLogo\">\n        <input type=\"range\" title=\"Logo Size\" inline name=\"logoSize\" min=\"3.8\" max=\"8\" step=\"0.1\" value=\"3.8\" condition=\"showLogo\">\n        <input type=\"checkbox\" title=\"Show Brand Name\" name=\"showBrand\" checked>\n        <input type=\"checkbox\" title=\"Show Menu Items\" name=\"showItems\" checked>\n        <input type=\"color\" title=\"Items Hover Color\" name=\"itemsHoverColor\" value=\"#c1c1c1\" condition=\"showItems\">\n        <input type=\"checkbox\" title=\"Show Button(s)\" name=\"showButtons\" checked>\n        <input type=\"checkbox\" title=\"Sticky\" name=\"sticky\" checked>\n        <input type=\"checkbox\" title=\"Collapsed\" name=\"collapsed\">\n        <input type=\"checkbox\" title=\"Transparent\" name=\"transparent\">\n        <input type=\"color\" title=\"Hamburger Color\" name=\"hamburgerColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"menuBgColor\" value=\"#2e2e2e\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <nav class=\"navbar navbar-expand beta-menu navbar-dropdown align-items-center\" mbr-class=\"{'navbar-fixed-top': sticky,\n        'navbar-toggleable-sm': !collapsed,\n        'collapsed': collapsed,\n        'bg-color transparent': transparent}\">\n        <button class=\"navbar-toggler navbar-toggler-right\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarSupportedContent\" aria-controls=\"navbarSupportedContent\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\n            <div class=\"hamburger\">\n                <span></span>\n                <span></span>\n                <span></span>\n                <span></span>\n            </div>\n        </button>\n        <div class=\"menu-logo\">\n            <div class=\"navbar-brand\">\n                <span mbr-if=\"showLogo\" class=\"navbar-logo\">\n                    <a href=\"index.html\">\n                         <img src=\"@PROJECT_PATH@/assets/images/favicon1-1.png\" alt mbr-style=\"{'height': logoSize + 'rem'}\" title>\n                    </a>\n                </span>\n                <span mbr-if=\"showBrand\" mbr-buttons mbr-theme-style=\"display-5\" class=\"navbar-caption-wrap\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove\"><a class=\"navbar-caption text-white\" data-app-selector=\".navbar-caption\" href=\"index.html\">OZAN ÖZTÜRK<br></a></span>\n            </div>\n        </div>\n        <div class=\"collapse navbar-collapse\" id=\"navbarSupportedContent\">\n            <ul mbr-if=\"showItems\" mbr-menu class=\"navbar-nav nav-dropdown\" mbr-theme-style=\"display-4\" mbr-class=\"{'nav-right': !showButtons,'navbar-nav-top-padding': isPublish && !showBrand && !showLogo}\"><li class=\"nav-item dropdown open\">\n                    <a class=\"nav-link link dropdown-toggle text-white\" href=\"index.html#header6-4\" data-app-selector=\".nav-link,.dropdown-item\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\"></span>\n                        \n                        PROJECTS</a><div class=\"dropdown-menu\"><a class=\"dropdown-item text-white\" href=\"heart_drive.html\" data-app-selector=\".nav-link,.dropdown-item\">HEART_DRIVE</a><a class=\"dropdown-item text-white\" href=\"appetite.html\" data-app-selector=\".nav-link,.dropdown-item\">Appetite</a><a class=\"dropdown-item text-white\" href=\"schacht.html\" data-app-selector=\".nav-link,.dropdown-item\">Schacht</a><a class=\"dropdown-item text-white\" href=\"what-the-cluck.html\" data-app-selector=\".nav-link,.dropdown-item\">What the Cluck</a><a class=\"dropdown-item text-white\" href=\"mercedes-benz.html\" data-app-selector=\".nav-link,.dropdown-item\">Mercedes-Benz</a><a class=\"dropdown-item text-white\" href=\"https://www.glars.eu/\" data-app-selector=\".nav-link,.dropdown-item\" target=\"_blank\">GLARS</a><a class=\"dropdown-item text-white\" href=\"twin-sprouts.html\" data-app-selector=\".nav-link,.dropdown-item\">Twin Sprouts</a><a class=\"text-white dropdown-item\" href=\"super-combat-high.html\" data-app-selector=\".nav-link,.dropdown-item\" aria-expanded=\"false\">Super Combat High</a></div>\n                </li></ul>\n            <div mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" class=\"navbar-buttons mbr-section-btn\"><a class=\"btn btn-sm btn-white-outline\" href=\"mailto:ozturkozan02@gmail.com\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>\n                    \n                    CONTACT</a></div>\n        </div>\n    </nav>\n</section>",
           "_isUserblock": true,
           "_cid": "rhzPCwirPH",
+          "_anchor": "menu1-7q",
           "_protectedParams": [],
           "_global": true,
           "_once": "menu",
-          "_params": {},
-          "_anchor": "menu1-7q"
+          "_params": {}
         },
         {
           "_styles": {
@@ -8983,11 +8983,11 @@
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
           "_cid": "rhzPCwLGis",
+          "_anchor": "header3-7r",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "header3-7r"
+          "_params": {}
         },
         {
           "_styles": {
@@ -9032,11 +9032,11 @@
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
           "_cid": "rhzPCxkbsP",
+          "_anchor": "header3-7s",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "header3-7s"
+          "_params": {}
         },
         {
           "_styles": {
@@ -9081,11 +9081,11 @@
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
           "_cid": "rhzPCxWAKl",
+          "_anchor": "header3-7t",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "header3-7t"
+          "_params": {}
         },
         {
           "_styles": {
@@ -9133,11 +9133,11 @@
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
           "_cid": "rhzPCyr5V6",
+          "_anchor": "header3-7u",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "header3-7u"
+          "_params": {}
         },
         {
           "_styles": {
@@ -9205,11 +9205,11 @@
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
           "_cid": "rhzPCyWagR",
+          "_anchor": "features3-7v",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "features3-7v"
+          "_params": {}
         },
         {
           "_styles": {
@@ -9292,11 +9292,11 @@
           "_customHTML": "<section group=\"Footers\" global once mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Menu Items\" name=\"menuItems\" min=\"0\" max=\"10\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Social Items\" name=\"socialItems\" min=\"0\" max=\"10\" step=\"1\" value=\"1\">\n        <input type=\"checkbox\" title=\"Reveal effect\" name=\"reveal\" checked>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/jumbotron.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#2e2e2e\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#3C3C3C\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row align-center mbr-white\">\n            <div class=\"row row-links\" mbr-if=\"menuItems > 0\">\n                <ul class=\"foot-menu\" mbr-list mbr-list-grow=\"menuItems\">\n                    <li mbr-text class=\"foot-menu-item mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\"foot-menu-item\"><a href=\"index.html#header6-1\"><b>Portfolio</b></a></li>\n                    \n                    \n                    \n                    \n                </ul>\n            </div>\n            <div class=\"row social-row\" mbr-if=\"socialItems > 0\">\n                <div mbr-list mbr-list-grow=\"socialItems\" class=\"social-list align-right pb-2\">\n                    <div class=\"soc-item\">\n                        <a href=\"https://www.linkedin.com/in/ozan-ozturk/\" target=\"_blank\">\n                            <span mbr-icon class=\"mbr-iconfont mbr-iconfont-social socicon-linkedin socicon\"></span>\n                        </a>\n                    </div>\n                    \n                    \n                    \n                    \n                    \n                </div>\n            </div>\n            <div class=\"row row-copirayt\">\n                <p class=\"mbr-text mb-0 mbr-fonts-style mbr-white align-center\" mbr-theme-style=\"display-7\" data-app-selector=\".media-container-row .mbr-text\">\n                    © 2019 Ozan Öztürk - All Rights Reserved.</p>\n            </div>\n        </div>\n    </div>\n</section>",
           "_isUserblock": true,
           "_cid": "rhzPCzLpDr",
+          "_anchor": "footer7-7w",
           "_protectedParams": [],
           "_global": true,
           "_once": true,
-          "_params": {},
-          "_anchor": "footer7-7w"
+          "_params": {}
         }
       ]
     }
