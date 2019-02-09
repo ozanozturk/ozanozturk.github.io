@@ -28,10 +28,10 @@ body {
 }
 .display-2 {
   font-family: 'Open Sans', sans-serif;
-  font-size: 1.2rem;
+  font-size: 1.1rem;
 }
 .display-2 > .mbr-iconfont {
-  font-size: 1.92rem;
+  font-size: 1.76rem;
 }
 .display-4 {
   font-family: 'Open Sans', sans-serif;
@@ -66,9 +66,9 @@ body {
     line-height: calc( 1.4 * (1.49rem + (2.4 - 1.49) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
-    font-size: 0.96rem;
-    font-size: calc( 1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 0.88rem;
+    font-size: calc( 1.0350000000000001rem + (1.1 - 1.0350000000000001) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.0350000000000001rem + (1.1 - 1.0350000000000001) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
     font-size: 0.72rem;
@@ -6770,6 +6770,9 @@ body {
   .cid-r42KNOZL3l .mbr-text {
     text-align: center;
   }
+}
+.cid-r42KNOZL3l H3 {
+  color: #ffffff;
 }
 .cid-r5fgChFnYn {
   padding-top: 75px;
