@@ -6350,6 +6350,26 @@ body {
 .cid-rhzWzLiwiy .mbr-section-btn B {
   color: #ffffff;
 }
+.cid-rhCpZBbIyO {
+  padding-top: 75px;
+  padding-bottom: 75px;
+  background-image: url("../../../assets/images/bg-lame-2.jpg");
+}
+@media (min-width: 992px) {
+  .cid-rhCpZBbIyO .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rhCpZBbIyO .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rhCpZBbIyO .mbr-text {
+    text-align: center;
+  }
+}
 .cid-qQfv5sz2ia .navbar {
   padding: .5rem 0;
   background: #2e2e2e;
@@ -6773,26 +6793,6 @@ body {
 }
 .cid-r42KNOZL3l H3 {
   color: #ffffff;
-}
-.cid-rhCpZBbIyO {
-  padding-top: 75px;
-  padding-bottom: 75px;
-  background-image: url("../../../assets/images/bg-lame-2.jpg");
-}
-@media (min-width: 992px) {
-  .cid-rhCpZBbIyO .mbr-figure {
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-rhCpZBbIyO .mbr-figure {
-    padding-bottom: 3rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-rhCpZBbIyO .mbr-text {
-    text-align: center;
-  }
 }
 .cid-r5fgChFnYn {
   padding-top: 75px;
