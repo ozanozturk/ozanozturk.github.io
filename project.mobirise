@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Ozan Öztürk - Game Designer",
-    "currentPage": "index.html",
+    "currentPage": "heart_drive.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -51,8 +51,6 @@
     "sitemapSwitcherAuto": "on",
     "sitemapSwitcher": "on",
     "cookiesAlert": "",
-    "publishType": "local",
-    "publishPath": "file:///F:/Users/Ozan/Documents/Portfolio",
     "siteFonts": [
       {
         "url": "https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i",
@@ -5273,7 +5271,7 @@
             }
           },
           "_name": "content3",
-          "_customHTML": "<section mbr-id=\"_anchor\" mbr-paddings class=\"mbr-section article content3\">\n      \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) --> \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#af203f\">\n    <!-- End block parameters -->     \n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"row col-12 col-md-8\">\n                <div class=\"col-12 col-md-6 pr-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline><p><b>GENRE:</b>&nbsp;Typing</p><p><b>         PLATFORM: </b>PC</p><p><b>         ENGINE: </b>Unity</p></div>\n                <div class=\"col-12 col-md-6 pl-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline><p><b>TEAM:</b> 5</p><p><b>ROLE:</b> Producer &amp; Designer</p><p><b>DURATION:</b> 6 weeks</p></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section mbr-id=\"_anchor\" mbr-paddings class=\"mbr-section article content3\">\n      \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) --> \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#af203f\">\n    <!-- End block parameters -->     \n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"row col-12 col-md-8\">\n                <div class=\"col-12 col-md-6 pr-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline><p><b>GENRE:</b>&nbsp;Typing</p><p><b>         PLATFORM: </b>PC</p><p><b>         ENGINE: </b>Unity</p></div>\n                <div class=\"col-12 col-md-6 pl-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline><p><b>TEAM:</b> 5</p><p><b>ROLE:</b> Producer &amp; Designer</p><p><b>DURATION:</b>&nbsp;Ongoing</p></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_isUserblock": true,
           "_cid": "qZ8duuydx7",
           "_anchor": "content3-4t",
@@ -5370,7 +5368,7 @@
             "gallery": [
               {
                 "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/2018-9-1_0-21-14-640790.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-9-1-0-21-14-640790.jpg",
                 "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=2INIBPV9q2o",
                 "image": "@PROJECT_PATH@/assets/images/ss-hd-4.jpg",
