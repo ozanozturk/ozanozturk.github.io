@@ -51,8 +51,6 @@
     "sitemapSwitcherAuto": "on",
     "sitemapSwitcher": "on",
     "cookiesAlert": "",
-    "publishType": "local",
-    "publishPath": "file:///F:/Users/Ozan/Documents/Portfolio",
     "siteFonts": [
       {
         "url": "https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i",
@@ -827,7 +825,7 @@
             "gallery": [
               {
                 "tags": "Animated",
-                "videoPreview": "@PROJECT_PATH@/2019-3-2_1-14-43-853197.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2019-3-2-1-14-43-853197.jpg",
                 "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=XiZfLED2Hyw",
                 "image": "@PROJECT_PATH@/assets/images/ss-schacht-5.jpg",
@@ -1674,7 +1672,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><span style=\"font-size: 1rem;\">Twin Sprouts was developed by a team of 4 students at Cologne Game Lab as a semester project in a short period of 2 months.</span></p><p><span style=\"font-size: 1rem;\">In addition to collaborating on gameplay design with other team members, <b>producing documentation, organizing playtests </b>and <b>creating the level</b> of the game, I took on the mantle of the <b>project manager</b>, managing the project pipeline around the main constraints of time and scope.</span></p><p><span style=\"font-size: 1rem;\">Perhaps the most interesting aspect of Twin Sprouts is the <b>unique blend of cooperative and competitive gameplay</b>. The game is played by two players who share the goal of growing their shared garden. The score of each player is tracked individually during gameplay, and combined at the end of the round. Both the <b>individual and team scores</b> are saved on two separate leaderboards</span><span style=\"font-size: 1rem;\">. The more competitive the players are during the session, the higher their combined scores will be in the end.</span></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><span style=\"font-size: 1rem;\">Twin Sprouts was developed by a team of 4 students at Cologne Game Lab as a semester project in a short period of 2 months.</span></p><p><span style=\"font-size: 1rem;\">In addition to collaborating on gameplay design with other team members, <b>producing documentation, organizing playtests </b>and <b>creating the level</b> of the game, I took on the mantle of the <b>project manager</b>, managing the project pipeline around the main constraints of time and scope.</span></p><p><span style=\"font-size: 1rem;\">Twin Sprouts is a casually-approachable 3D platformer features a&nbsp;<b>unique blend of cooperative and competitive gameplay</b>. The game is played by two players who share the goal of growing their shared garden. The score of each player is tracked individually during gameplay, and combined at the end of the round. Both the <b>individual and team scores</b> are saved on two separate leaderboards</span><span style=\"font-size: 1rem;\">. The more competitive the players are during the session, the higher their combined scores will be in the end.</span></p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "qQtd5V7HTq",
           "_anchor": "content1-2e",
           "_protectedParams": [],
@@ -1794,7 +1792,7 @@
             "gallery": [
               {
                 "tags": "Creative",
-                "videoPreview": "@PROJECT_PATH@/2019-3-2_1-23-59-92827.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2019-3-2-1-23-59-92827.jpg",
                 "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=nXSHxSimhN0",
                 "image": "@PROJECT_PATH@/assets/images/ss-ts-3.jpg",
@@ -4613,6 +4611,19 @@
             "gallery": [
               {
                 "tags": "Awesome",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-5-1-18-18-40-161803.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=NVqtLivuTJg",
+                "image": "@PROJECT_PATH@/assets/images/ss-sch-3.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ss-sch-3-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Awesome",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -4649,19 +4660,6 @@
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
                 "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2018-5-1-18-18-40-161803.jpg",
-                "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=NVqtLivuTJg",
-                "image": "@PROJECT_PATH@/assets/images/ss-sch-3.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/ss-sch-3-800x450.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": true
               }
             ]
           }
@@ -5375,7 +5373,7 @@
             "gallery": [
               {
                 "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/2018-9-1_0-21-14-640790.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-9-1-0-21-14-640790.jpg",
                 "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=2INIBPV9q2o",
                 "image": "@PROJECT_PATH@/assets/images/ss-hd-4.jpg",
