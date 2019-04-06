@@ -10261,21 +10261,8 @@
             "gallery__filtersBtnStyle": "btn-primary-outline",
             "gallery": [
               {
-                "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2018-9-1-0-21-14-640790.jpg",
-                "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=2INIBPV9q2o",
-                "image": "@PROJECT_PATH@/assets/images/ss-hd-4.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/ss-hd-4-800x450.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/ss-hd-2.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ss-lame-1.jpg",
                 "alt": "",
                 "title": ""
               },
@@ -10284,8 +10271,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/ss-hd-3.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/ss-hd-3-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ss-lame-3.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ss-lame-3-800x450.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -10293,10 +10280,23 @@
                 "active": false
               },
               {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/ss-hd-4.jpg",
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/ss-lame-5.jpg",
                 "alt": "",
                 "title": ""
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-9-1-0-21-14-640790.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=2INIBPV9q2o",
+                "image": "@PROJECT_PATH@/assets/images/ss-lame-6.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ss-lame-6-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": true
               }
             ]
           }
