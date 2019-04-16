@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Ozan Öztürk - Game Designer",
-    "currentPage": "lame.html",
+    "currentPage": "twin-sprouts.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -88,6 +88,8 @@
         "url": "https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i"
       }
     ],
+    "publishType": "local",
+    "publishPath": "file:///F:/Users/Ozan/Documents/Portfolio",
     "gdpr": ""
   },
   "pages": {
@@ -2122,7 +2124,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><span style=\"font-size: 1rem;\">Your goal in Twin Sprouts is to nurture your garden with a friend. You can plant seeds and&nbsp;<b>cast water and sun spells</b> in balance to help your plants&nbsp;<b>evolve from one stage to the next</b>.</span></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><span style=\"font-size: 1rem;\">Your goal in Twin Sprouts is to nurture your shared garden with a friend. You can plant seeds and&nbsp;<b>cast water and sun spells</b> in balance to help your plants&nbsp;<b>evolve from one stage to the next</b>. As they grow, so does the joy they bring to your garden.</span></p></div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content1-eq",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
@@ -2190,7 +2192,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><span style=\"font-size: 1rem;\">You can either play in concert with your fellow sprout or try to achieve a higher individual score.</span><span style=\"font-size: 1rem;\">&nbsp;Both your&nbsp;<b>individual and combined team scores</b> will be saved at the end of the gameplay session</span><span style=\"font-size: 1rem;\">. The more competent each of you were during the round, the higher your combined scores will be in the end; giving you a stronger presence on the game's leaderboard.</span></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><span style=\"font-size: 1rem;\">You can either play in concert with your fellow sprout or compete against each other and try to achieve a higher individual score.</span><span style=\"font-size: 1rem;\">&nbsp;Both your&nbsp;<b>individual and combined team scores</b> will be saved at the end of the gameplay session</span><span style=\"font-size: 1rem;\">.&nbsp;</span><span style=\"font-size: 1rem;\">The more competent each of you were during the round, the higher your combined scores will be in the end; giving you a stronger presence on the game's leaderboard.</span></p></div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content1-eo",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
@@ -4640,7 +4642,7 @@
               },
               {
                 "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2019-3-0-16-40-59-785193.jpg",
+                "videoPreview": "@PROJECT_PATH@/2019-3-0_16-40-59-785193.jpg",
                 "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=63ex-YCB2KM",
                 "image": "@PROJECT_PATH@/assets/images/ui-mockup-1.jpg",
