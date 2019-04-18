@@ -9945,7 +9945,7 @@ body {
   top: 0;
   width: 100%;
   height: 100%;
-  background: #e19449;
+  background: #232323;
   opacity: 0;
   -webkit-transition: 0.2s opacity ease-in-out;
   transition: 0.2s opacity ease-in-out;
@@ -9974,7 +9974,7 @@ body {
   left: 0;
   z-index: -1;
   position: absolute;
-  background: #e19449 !important;
+  background: #232323 !important;
   opacity: 0.7;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
