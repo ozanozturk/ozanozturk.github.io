@@ -12086,26 +12086,6 @@ body {
   padding-bottom: 15px;
   background-color: #232323;
 }
-.cid-ro4VS1uMMw {
-  padding-top: 75px;
-  padding-bottom: 75px;
-  background-image: url("../../../assets/images/bg-lame-2.jpg");
-}
-@media (min-width: 992px) {
-  .cid-ro4VS1uMMw .mbr-figure {
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-ro4VS1uMMw .mbr-figure {
-    padding-bottom: 3rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-ro4VS1uMMw .mbr-text {
-    text-align: center;
-  }
-}
 .cid-ro4VS1WvGc {
   padding-top: 75px;
   padding-bottom: 75px;
@@ -12123,6 +12103,26 @@ body {
 }
 @media (max-width: 767px) {
   .cid-ro4VS1WvGc .mbr-text {
+    text-align: center;
+  }
+}
+.cid-ro4VS1uMMw {
+  padding-top: 75px;
+  padding-bottom: 75px;
+  background-image: url("../../../assets/images/bg-lame-2.jpg");
+}
+@media (min-width: 992px) {
+  .cid-ro4VS1uMMw .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-ro4VS1uMMw .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-ro4VS1uMMw .mbr-text {
     text-align: center;
   }
 }
