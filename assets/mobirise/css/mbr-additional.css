@@ -3424,8 +3424,44 @@ body {
   color: #18833d;
   text-align: left;
 }
-.cid-rnCToOOkc3 {
+.cid-ropFS6rWeS {
   padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-ropFS6rWeS .mbr-text,
+.cid-ropFS6rWeS blockquote {
+  color: #767676;
+}
+.cid-ropFS6rWeS .mbr-text P {
+  color: #232323;
+}
+.cid-ropFSTslVb {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background: #ffffff;
+}
+.cid-ropFSTslVb .image-block {
+  margin: auto;
+}
+.cid-ropFSTslVb .mbr-figure {
+  margin: 0 auto;
+}
+.cid-ropFSTslVb figcaption {
+  position: relative;
+}
+.cid-ropFSTslVb figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-ropFSTslVb .image-block {
+    width: 100% !important;
+  }
+}
+.cid-rnCToOOkc3 {
+  padding-top: 15px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
@@ -3436,8 +3472,68 @@ body {
 .cid-rnCToOOkc3 .mbr-text P {
   color: #232323;
 }
-.cid-rnswqVejCy {
+.cid-ropyVHPCGH {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background: #ffffff;
+}
+.cid-ropyVHPCGH .image-block {
+  margin: auto;
+}
+.cid-ropyVHPCGH .mbr-figure {
+  margin: 0 auto;
+}
+.cid-ropyVHPCGH figcaption {
+  position: relative;
+}
+.cid-ropyVHPCGH figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-ropyVHPCGH .image-block {
+    width: 100% !important;
+  }
+}
+.cid-ropyZJjDqh {
   padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-ropyZJjDqh .mbr-text,
+.cid-ropyZJjDqh blockquote {
+  color: #767676;
+}
+.cid-ropyZJjDqh .mbr-text P {
+  color: #232323;
+}
+.cid-rop1sJVbcp {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background: #ffffff;
+}
+.cid-rop1sJVbcp .image-block {
+  margin: auto;
+}
+.cid-rop1sJVbcp .mbr-figure {
+  margin: 0 auto;
+}
+.cid-rop1sJVbcp figcaption {
+  position: relative;
+}
+.cid-rop1sJVbcp figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rop1sJVbcp .image-block {
+    width: 100% !important;
+  }
+}
+.cid-rnswqVejCy {
+  padding-top: 30px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
