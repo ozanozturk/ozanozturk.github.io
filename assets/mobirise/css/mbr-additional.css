@@ -4168,7 +4168,7 @@ body {
   background: transparent !important;
 }
 .cid-rnCWeOSB4w .mbr-gallery-item > div:hover:before {
-  opacity: 0.7 !important;
+  opacity: 0.9 !important;
 }
 .cid-rnCWeOSB4w .mbr-gallery-title {
   font-size: .9em;
@@ -4189,9 +4189,12 @@ body {
   z-index: -1;
   position: absolute;
   background: #cc2952 !important;
-  opacity: 0.7;
+  opacity: 0.9;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
+}
+.cid-rnCWeOSB4w .mbr-gallery-item > div > span {
+  text-align: center;
 }
 .cid-rmqxwD0czl {
   padding-top: 30px;
