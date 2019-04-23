@@ -9214,7 +9214,7 @@ body {
 }
 .cid-ro6iD10Jv1 {
   padding-top: 15px;
-  padding-bottom: 30px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-ro6iD10Jv1 .mbr-text,
@@ -9222,6 +9222,19 @@ body {
   color: #767676;
 }
 .cid-ro6iD10Jv1 .mbr-text P {
+  color: #232323;
+  text-align: left;
+}
+.cid-rouyir6ayA {
+  padding-top: 0px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-rouyir6ayA .mbr-text,
+.cid-rouyir6ayA blockquote {
+  color: #767676;
+}
+.cid-rouyir6ayA .mbr-text P {
   color: #232323;
   text-align: left;
 }
