@@ -1699,25 +1699,56 @@ body {
 .cid-roBlG2fKCD .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-roSzssGoOb {
-  padding-top: 135px;
-  padding-bottom: 60px;
-  background-image: url("../../../assets/images/intro-bg.jpg");
+.cid-rp4A7O0SKa {
+  padding-top: 120px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/intro-reel.gif");
 }
-.cid-roSzssGoOb .mbr-section-subtitle {
-  letter-spacing: .2rem;
+.cid-rp4A7O0SKa .testimonials-container {
+  margin: 0 auto;
 }
-.cid-roSzssGoOb .media-container-column {
-  background-color: #232323;
+.cid-rp4A7O0SKa .testimonials-container .testimonials-item {
+  justify-content: center;
+  margin-top: 3rem;
+  -webkit-justify-content: center;
 }
-@media (max-width: 767px) {
-  .cid-roSzssGoOb .media-container-column {
-    padding: 1rem !important;
+.cid-rp4A7O0SKa .testimonials-container .testimonials-item .user {
+  background: #232323;
+}
+.cid-rp4A7O0SKa .testimonials-container .testimonials-item .user.row {
+  margin: 0;
+}
+.cid-rp4A7O0SKa .testimonials-container .testimonials-item .user .user_image {
+  width: 150px;
+  height: 150px;
+  overflow: hidden;
+  margin: 2rem auto 2rem auto;
+}
+.cid-rp4A7O0SKa .testimonials-container .testimonials-item .user .user_image img {
+  width: 100%;
+  min-width: 100%;
+  min-height: 100%;
+}
+.cid-rp4A7O0SKa .testimonials-container .testimonials-item .user .testimonials-caption {
+  padding: 2rem;
+  padding: 2rem 2rem 2rem 0;
+}
+@media (max-width: 260px) {
+  .cid-rp4A7O0SKa .user_image {
+    width: 100% !important;
+    height: auto !important;
   }
 }
-.cid-roSzssGoOb .mbr-text,
-.cid-roSzssGoOb .mbr-section-btn {
+@media (max-width: 767px) {
+  .cid-rp4A7O0SKa .testimonials-caption {
+    padding: 0 2rem 2rem 2rem !important;
+  }
+}
+.cid-rp4A7O0SKa .user_text {
   color: #cccccc;
+}
+.cid-rp4A7O0SKa .user_name {
+  color: #ffffff;
 }
 .cid-roBvXoHLkZ {
   padding-top: 60px;
@@ -9044,15 +9075,15 @@ body {
 .cid-roY6kjtcht .mbr-text P {
   color: #ffffff;
 }
-.cid-roY6kLCKGE {
+.cid-rp4I2YKrgu {
   padding-top: 45px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
-.cid-roY6kLCKGE .mbr-text {
+.cid-rp4I2YKrgu .mbr-text {
   color: #767676;
 }
-.cid-roY6kLCKGE .mbr-text P {
+.cid-rp4I2YKrgu .mbr-text P {
   color: #232323;
 }
 .cid-roYxTzjQYl {
