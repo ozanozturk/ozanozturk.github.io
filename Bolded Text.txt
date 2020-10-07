@@ -1,0 +1,20 @@
+    <div class="testimonials-item">
+        <div class="user row">
+          <div class="col-lg-3 col-md-4">
+            <div class="user_image">
+              <img src="assets/images/portrait-300x300.jpg" alt="" title="">
+            </div>
+          </div>
+          <div class="testimonials-caption col-lg-9 col-md-8">
+            <div class="user_text ">
+              <p class="mbr-fonts-style  display-7"><span style="color: rgb(255, 255, 255);"><strong>HELLO THERE!</strong></span><br><br>I am a <span style="color: rgb(255, 255, 255);"><strong>game designer</strong></span> with <span style="color: rgb(255, 255, 255);"><strong>AAA experience</strong></span> and versatile skillset in <span style="color: rgb(255, 255, 255);"><strong>systems, gameplay, level </strong></span>and <span style="color: rgb(255, 255, 255);"><strong>UX design</strong></span> across different genres of gaming.<br><br>I am currently working on&nbsp;<span style="color: rgb(255, 255, 255);"><strong>Far Cry 6</strong></span> at <span style="color: rgb(255, 255, 255);"><strong>Ubisoft Berlin</strong></span>. 
+<br><br>I aim to create engaging experiences players will want to experience for a long time and more than once. I am deeply interested in <span style="color: rgb(255, 255, 255);"><strong>formal game design</strong></span> practices and the <span style="color: rgb(255, 255, 255);"><strong>psychology of player motivation</strong></span> on which I have written my thesis while working at Ubisoft in support of my design work.
+<br><br>Please scroll down to check out some games I have worked on. If you would like to get in touch, don't hesitate to drop me a line! &nbsp;<br></p>
+            </div>
+            <div class="user_name mbr-bold mbr-fonts-style align-left pt-3 display-7">- Ozan</div>
+            
+          </div>
+        </div>
+      </div></div>
+  </div>
+</section>
