@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Ozan Öztürk, Game Designer",
-    "currentPage": "index.html",
+    "currentPage": "heart_drive.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1035,7 +1035,7 @@
               }
             },
             ".mbr-text": {
-              "color": "#efefef",
+              "color": "#ffffff",
               "text-align": "center"
             },
             ".card-wrapper": {
@@ -7431,20 +7431,20 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/hd-gif-insult.gif",
-                "thumb": "@PROJECT_PATH@/assets/images/hd-gif-insult.gif",
+                "image": "@PROJECT_PATH@/assets/images/hd-gif-lookswet.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/hd-gif-lookswet.gif",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Awesome",
