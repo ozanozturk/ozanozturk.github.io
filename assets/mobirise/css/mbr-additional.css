@@ -1229,7 +1229,7 @@ section.lazy-placeholder:after {
 }
 .cid-sCbNW0Bjuk .mbr-text,
 .cid-sCbNW0Bjuk .mbr-section-btn {
-  color: #efefef;
+  color: #ffffff;
 }
 .cid-sCbNW0Bjuk B {
   color: #ffffff;
@@ -11550,30 +11550,6 @@ section.lazy-placeholder:after {
 .cid-skTjp8mkya .mbr-section-btn B {
   color: #ffffff;
 }
-.cid-sl4MwKQcBG {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-image: url("../../../assets/images/schacht-bg-2.jpg");
-}
-@media (min-width: 992px) {
-  .cid-sl4MwKQcBG .mbr-figure {
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-sl4MwKQcBG .mbr-figure {
-    padding-bottom: 3rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-sl4MwKQcBG .mbr-text {
-    text-align: center;
-  }
-}
-.cid-sl4MwKQcBG .mbr-text,
-.cid-sl4MwKQcBG .mbr-section-btn {
-  color: #ffffff;
-}
 .cid-sCbNW0Bjuk {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -11596,9 +11572,33 @@ section.lazy-placeholder:after {
 }
 .cid-sCbNW0Bjuk .mbr-text,
 .cid-sCbNW0Bjuk .mbr-section-btn {
-  color: #efefef;
+  color: #ffffff;
 }
 .cid-sCbNW0Bjuk B {
+  color: #ffffff;
+}
+.cid-sl4MwKQcBG {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/schacht-bg-2.jpg");
+}
+@media (min-width: 992px) {
+  .cid-sl4MwKQcBG .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-sl4MwKQcBG .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-sl4MwKQcBG .mbr-text {
+    text-align: center;
+  }
+}
+.cid-sl4MwKQcBG .mbr-text,
+.cid-sl4MwKQcBG .mbr-section-btn {
   color: #ffffff;
 }
 .cid-roDRonvrG0 {
