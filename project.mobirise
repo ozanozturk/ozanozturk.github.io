@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Ozan Öztürk, Game Designer",
-    "currentPage": "index.html",
+    "currentPage": "m2.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -16851,7 +16851,7 @@
             }
           },
           "_name": "slider2",
-          "_customHTML": "<section class=\"carousel slide\" group=\"Sliders & Gallery\" plugins=\"YTPlayer,VimeoPlayer,SliderVideo,BootstrapCarouselSwipe\" data-interval=\"false\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <!-- <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked> -->\n        <input type=\"hidden\" name=\"typeSlider\" value=\"headerSlider\" checked>\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\" inline>\n        <input type=\"range\" title=\"Width\" name=\"sliderWSize\" min=\"50\" max=\"100\" step=\"1\" value=\"86\" inline>\n        <input type=\"range\" title=\"Height\" name=\"sliderHSize\" min=\"300\" max=\"700\" step=\"10\" value=\"400\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n        <input type=\"carousel\" title=\"Slides\" name=\"slides\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    <div class=\"container content-slider\">\n        <div class=\"content-slider-wrap\">\n            <div mbr-carousel=\"slides\"></div> \n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"carousel slide\" group=\"Sliders & Gallery\" plugins=\"YTPlayer,VimeoPlayer,SliderVideo,BootstrapCarouselSwipe\" data-interval=\"false\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <!-- <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked> -->\n        <input type=\"hidden\" name=\"typeSlider\" value=\"headerSlider\" checked>\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\" inline>\n        <input type=\"range\" title=\"Width\" name=\"sliderWSize\" min=\"50\" max=\"100\" step=\"1\" value=\"84\" inline>\n        <input type=\"range\" title=\"Height\" name=\"sliderHSize\" min=\"300\" max=\"700\" step=\"10\" value=\"480\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n        <input type=\"carousel\" title=\"Slides\" name=\"slides\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    <div class=\"container content-slider\">\n        <div class=\"content-slider-wrap\">\n            <div mbr-carousel=\"slides\"></div> \n        </div>\n    </div>\n</section>",
           "_cid": "tVp3bB2OSB",
           "_anchor": "slider2-6f",
           "_protectedParams": [
@@ -16863,10 +16863,29 @@
           "_global": false,
           "_once": false,
           "_params": {
-            "slides__autoplay": true,
+            "slides__autoplay": false,
             "slides__autoplayInterval": "8000",
             "slides__showBullets": true,
             "slides": [
+              {
+                "image": "@THEME_PATH@/components/_images/background1.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=_RmFWo9Htwg",
+                "customStyle1": "display-5",
+                "customStyle2": "display-7",
+                "customStyle3": "display-4",
+                "title": "<b>THE OTHERSIDE</b><br>2nd Trip",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "powered by M²",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://www.youtube.com/watch?v=4NEUPQzH0D0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WATCH</a>",
+                "overlayOpacity": "0.4",
+                "overlayColor": "#232323"
+              },
               {
                 "image": "@THEME_PATH@/components/_images/background2.jpg",
                 "active": true,
@@ -16882,25 +16901,8 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "powered by M²",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://www.youtube.com/watch?v=4NEUPQzH0D0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WATCH</a>"
-              },
-              {
-                "image": "@THEME_PATH@/components/_images/background1.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=_RmFWo9Htwg",
-                "customStyle1": "display-5",
-                "customStyle2": "display-7",
-                "customStyle3": "display-4",
-                "title": "<b>THE OTHERSIDE<br></b>2nd Trip Event<br>",
-                "overlay": true,
-                "contentAlign": "center",
-                "text": "powered by M²",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://www.youtube.com/watch?v=_RmFWo9Htwg\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WATCH</a>",
-                "overlayOpacity": "0.5",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://www.youtube.com/watch?v=4NEUPQzH0D0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WATCH</a>",
+                "overlayOpacity": "0.4",
                 "overlayColor": "#232323"
               },
               {
@@ -16918,7 +16920,9 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "powered by M²",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://www.youtube.com/watch?v=jqVb9zthcZA\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WATCH</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://www.youtube.com/watch?v=jqVb9zthcZA\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WATCH</a>",
+                "overlayOpacity": "0.4",
+                "overlayColor": "#232323"
               }
             ]
           }
