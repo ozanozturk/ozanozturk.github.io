@@ -1023,7 +1023,7 @@ section.lazy-placeholder:after {
 }
 .cid-v42wyWOTOt .mbr-text,
 .cid-v42wyWOTOt .mbr-section-btn {
-  color: #efefef;
+  color: #ffffff;
 }
 .cid-skSvMhdAJY {
   padding-top: 45px;
@@ -1202,7 +1202,7 @@ section.lazy-placeholder:after {
 }
 .cid-v42U3WZufM .mbr-text {
   color: #ffffff;
-  text-align: left;
+  text-align: center;
 }
 .cid-v42U3WZufM .card-wrapper {
   height: 100%;
@@ -12304,8 +12304,8 @@ section.lazy-placeholder:after {
   color: #c1c1c1 !important;
 }
 .cid-uEWzVirxmg {
-  padding-top: 90px;
-  padding-bottom: 30px;
+  padding-top: 135px;
+  padding-bottom: 75px;
   background-image: url("../../../assets/images/m2-bg-2.gif");
 }
 .cid-uEWAgd1G2x {
@@ -12450,6 +12450,68 @@ section.lazy-placeholder:after {
 }
 .cid-tVovzB81O2 .mbr-text P {
   color: #232323;
+}
+.cid-v45xqMSDLT {
+  padding-top: 45px;
+  padding-bottom: 15px;
+  background-color: #2a2e39;
+}
+.cid-v45xqMSDLT .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-v45xqMSDLT B {
+  color: #ffffff;
+}
+.cid-v45xqMSDLT H2 {
+  color: #ffffff;
+}
+.cid-v45yLQrSxW {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-image: url("../../../assets/images/imporium-bg-1.jpg");
+}
+.cid-v45yLQrSxW .card-box {
+  padding: 0 2rem;
+}
+.cid-v45yLQrSxW .mbr-section-btn {
+  padding-top: 1rem;
+}
+.cid-v45yLQrSxW .mbr-section-btn a {
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
+.cid-v45yLQrSxW h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 2rem;
+}
+.cid-v45yLQrSxW p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
+}
+.cid-v45yLQrSxW .mbr-text {
+  color: #ffffff;
+  text-align: center;
+}
+.cid-v45yLQrSxW .card-wrapper {
+  height: 100%;
+  padding-bottom: 2rem;
+  background: #2a2e39;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-v45yLQrSxW .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+.cid-v45yLQrSxW .card-title {
+  color: #ffffff;
+  text-align: center;
+}
+.cid-v45yLQrSxW .mbr-text B {
+  color: #ffffff;
 }
 .cid-roBsOpoXF4 {
   padding-top: 30px;
